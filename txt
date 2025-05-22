@@ -1,0 +1,14 @@
+postgresql://
+
+postgres
+:
+sRnZuozZnXZKKszJuwszYxlohGiCiLWZ
+@
+
+interchange.proxy.rlwy.net
+:
+41329
+/
+railway
+
+jdbc:postgresql://interchange.proxy.rlwy.net:41329/railway
